@@ -39,7 +39,7 @@ android-interface-netflix/
 ├── app/
 │   ├── src/
 │   │   ├── main/
-│   │   │   ├── java/com/seu-usuario/netflixinterface/
+│   │   │   ├── java/com/andre/netflixinterface/
 │   │   │   ├── res/
 │   │   │   │   ├── layout/
 │   │   │   │   ├── drawable/
