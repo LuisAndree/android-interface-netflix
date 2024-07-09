@@ -13,7 +13,8 @@ O objetivo deste projeto é recriar a interface do usuário do Netflix para fins
 ## Capturas de Tela
 
 ### Tela Inicial
-![Tela Inicial](path/to/screenshot1.png)
+![Tela Inicial](![Uploading Screenshot_20240708_223615.png…]()
+)
 
 ## Pré-requisitos
 
