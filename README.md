@@ -13,8 +13,8 @@ O objetivo deste projeto é recriar a interface do usuário do Netflix para fins
 ## Capturas de Tela
 
 ### Tela Inicial
-![Tela Inicial](![Uploading Screenshot_20240708_223615.png…]()
-)
+![Screenshot_20240708_223615](https://github.com/LuisAndree/android-interface-netflix/assets/73355463/4830598b-1f2e-4dd4-864b-e87a3004ab3d)
+
 
 ## Pré-requisitos
 
