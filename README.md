@@ -6,10 +6,6 @@ Este repositório contém a replicação da interface do Netflix utilizando Andr
 
 O objetivo deste projeto é recriar a interface do usuário do Netflix para fins de prática e demonstração de habilidades de design de interface no Android. A interface replica o layout, cores e elementos visuais do aplicativo Netflix.
 
-## Funcionalidades
-
-- Tela inicial com carrossel de banners
-
 ## Capturas de Tela
 
 ### Tela Inicial
